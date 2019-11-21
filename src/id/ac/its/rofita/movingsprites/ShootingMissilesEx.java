@@ -5,7 +5,11 @@ import javax.swing.JFrame;
 
 public class ShootingMissilesEx extends JFrame {
 
-    public ShootingMissilesEx() {
+    
+	
+	private static final long serialVersionUID = 1L;
+	
+	public ShootingMissilesEx() {
         
         initUI();
     }
